@@ -19,8 +19,8 @@ local B2 = Vector3.new(-484.92,-5.13,24.53)
 local B3 = Vector3.new(-474.02,-7.30,25.55)
 local B4 = Vector3.new(-470.93,-6.83,113.38)
 
-local SPEED_IDA = 56
-local SPEED_VOLTA = 29
+local SPEED_IDA = 60
+local SPEED_VOLTA = 31
 
 local auto1=false
 local auto2=false
